@@ -1,9 +1,9 @@
 import './App.css';
 import { Routes, Route, Link } from "react-router-dom";
 import Navbar from './pages/Shared/Navbar';
-import Home from './pages/Home/Home/Home';
 import About from './pages/About/About';
-import Login from './pages/Login/Login';
+import Home from './pages/Home/Home';
+import Login from './pages/Home/Login';
 
 function App() {
   return (
