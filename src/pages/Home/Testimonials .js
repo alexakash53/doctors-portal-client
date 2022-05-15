@@ -23,7 +23,7 @@ const Testimonials  = () => {
         },  
         {
             _id: 3,
-            name: 'Elon Musk',
+            name: 'Ariya Stark',
             location: 'Bangladesh',
             review: '',
             img: client3
